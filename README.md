@@ -1,2 +1,3 @@
-# weather
-la la la
+# weather зупуск проекта
+npm i
+npm run start
