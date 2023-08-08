@@ -1,3 +1,2 @@
 # weather
-npm i
-npm run start
+la la la
